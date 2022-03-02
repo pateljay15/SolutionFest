@@ -10,8 +10,8 @@ your computer has nodejs latest version installed and also react
 
 Set up Frontend:
 
-cd frontend/client
-npm install
+cd frontend/client\n
+npm install\n
 npm start
 
 setup for backend:
