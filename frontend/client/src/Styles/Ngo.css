@@ -1,0 +1,77 @@
+.nothing
+{
+    overflow-x: hidden;
+    width:100%;
+    height:100px;
+    /* background-color:red; */
+}
+.ngo_title
+{
+    width:100%;
+    text-align:center;
+    font-size:40px;
+    color:#17c217;
+    margin-top: 30px;
+    height:100px;
+}
+
+.ngo_map
+{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+}
+.ngo_card
+{ transition-duration: 0.5s;
+    width:300px;
+    min-height:300px;
+    /* background-color:red; */
+    margin:10px;
+    border-radius:10px;
+    border:1px solid #a2ffb0;
+    /* display:block; */
+    /* box-shadow:10px 10px 10px 10px black; */
+}
+.ngo_card:hover
+{
+        box-shadow: 0px 10px 48px -37px black;
+    transition-duration: 0.5s;
+    background-color:#c0eebd;
+    transform:scale(1.1);
+    cursor:pointer;
+    border:0px;
+}
+.ngo_card_title
+{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    color:#17c217;
+}
+.ngo_card_detals
+{
+    padding-top: 25px;
+    width:80%;
+    margin:auto;
+}
+.place_icon
+{
+   color: #17c217;
+}
+.support_ngo
+{
+    width:100%;
+    text-align: center;
+    color:#17c217;
+    color:#17c217;
+    border:1px solid #17c217;
+    height:40px;
+    border-radius:10px;
+    padding-top:10px;
+    font-size:20px;
+}
+.support_ngo:hover
+{
+    cursor:pointer;
+    background-color:white;
+}

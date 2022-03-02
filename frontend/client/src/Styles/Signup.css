@@ -1,0 +1,125 @@
+.nothing
+{
+    overflow-x: hidden;
+    width:100%;
+    height:100px;
+    /* background-color:red; */
+}
+
+.authenticate_form
+{
+    position: relative; 
+    transition-duration: 2s;
+    width:80%;
+    background-color: #c0eebd;
+    margin:50px auto;
+    border-radius:10px;
+}
+.form_header
+{
+    width:100%;
+    text-align:center;
+    font-size:25px;
+    font-weight:500;
+}
+.form_data_select
+{
+    width:250px;
+    margin:50px  auto;
+    /* background-color: white; */
+}
+.form_data_select:hover
+{
+    cursor: pointer;
+}
+
+.active
+{
+background-color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+    color:#17c217;
+}
+.select_user
+{
+    display:inline-block;
+    width:45%;
+    text-align: center;
+    
+    height:30px;
+    /* background-color: blue; */
+}
+.select_ngo
+{
+    display:inline-block;
+    width:45%;
+    text-align: center;
+    height:30px;
+
+    /* background-color: green; */
+}
+.authenticate_form_field
+{
+    /* width:20%; */
+    width:250px;
+    margin: 50px auto;
+}
+.address
+{
+    width:250px;
+    height:100px;
+}
+.sign_btn
+{
+    background-color: #17c217;
+    border-radius:10px;
+    height:40px;
+    color:white;
+    font-size: 20px;
+    /* width:50px; */
+    width:250px;
+    border:none;
+}
+.sign_btn:hover
+{
+    cursor:pointer;
+}
+
+.textField
+{
+    height: 30px;
+    width:250px;
+    border:none;
+}
+.form_footer
+{
+    width:100%;
+    text-align: center;
+    padding-bottom:10px;
+    /* background-color: red; */
+}
+.textField:focus
+{
+    outline:none;
+    border-bottom: 1px solid #17c217;
+}
+.form_footer_link
+{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 350px) {
+ .authenticate_form_field
+{
+    width:200px;
+}
+.textField
+{
+    width:200px;
+}
+.sign_btn
+{
+   width:200px;   
+}
+}

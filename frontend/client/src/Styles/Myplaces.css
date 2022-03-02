@@ -1,0 +1,77 @@
+.nothing
+{
+    overflow-x: hidden;
+    width:100%;
+    height:100px;
+    /* background-color:red; */
+}
+.places_title
+{
+    width:100%;
+    text-align:center;
+    font-size:40px;
+    color:#17c217;
+    margin-top: 30px;
+    height:100px;
+}
+.my_places_map
+{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+}
+.place_card
+{
+  width:400px;
+ min-height:420px;
+  /* background-color:red; */
+  border-radius: 10px;
+    border:1px solid #a2ffb0;
+    transition-duration: 0.5s;
+
+}
+
+.places_img
+{
+  width:100%;
+  height:200px;
+  /* border-radius-top: 10px; */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.places_detail
+{
+  width:90%;
+  margin:auto;
+}
+.uploaded_by
+{
+  color:#b0b0b0;
+  font-size:18px;
+}
+.place_icon
+{
+   color: #17c217;
+}
+.btn_accept
+{
+  display:block;
+  color:white;
+  width:100%;
+  height:40px;
+  margin:auto;
+  text-align:center;
+  color: #17c217;
+  border:1px solid #17c217;
+  border-radius:10px;
+  font-size:20px;
+  padding-top: 10px;
+  transition-duration: 0.5s;
+
+}
+.btn_accept:hover{
+  transition-duration: 0.5s;
+background-color:#17c217;
+color:white;
+cursor:pointer;
+}
