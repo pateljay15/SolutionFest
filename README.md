@@ -29,8 +29,13 @@ proposed will be aiming to create a network of NGOs and citizens of the city to 
 that place better again which is suitable for the living habitat of that area.
 
 ###  Important feature which we are talking about is:
+
+The code for this is in backend/controllers/realTimeNotify.js
+
 This system will peridocally checks the database and will iterate over all places which needs to be cleaned and all ngos registered with the system and will check
 all ngos whuch are nearby the places which need to be restore based on the condition like similar mathching pincode, noOFPeople needed to restore that place is less than
 the noOFActiveMemebrs of the ngo and then this system will automatically send email to all the nearby NGOs informing about the place which they should look for
 in order to restore that place
+
+
 
