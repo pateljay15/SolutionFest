@@ -1,4 +1,10 @@
 # solutionfest
+Demo purpose the live link of application:
+-> https://ngo-helpers.netlify.app/
+
+For better experience of receiving real time mails plz use 
+your real emails IDs to register in this application.
+
 
 Tools used:
 Backend: Nodejs , Express
