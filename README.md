@@ -10,7 +10,7 @@ Dummy NGO IDs:
 email: ngo@gmail.com
 pass: ngo@1234
 
-For better experience of receiving real time mails plz use 
+NOTE::::  For better experience of receiving real time mails plz use 
 your real emails IDs to register in this application.
 
 Also we haven't deploy the code to the server which send realtime notifications to  ngos about nearby 
