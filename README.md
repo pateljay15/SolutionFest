@@ -10,8 +10,8 @@ Dummy NGO IDs:
 email: 
 pass: 
 
-###For better experience of receiving real time mails plz use 
-your real emails IDs to register in this application.
+### For better experience of receiving real time mails plz use 
+### our real emails IDs to register in this application.
 
 Also we haven't deploy the code to the server which send realtime notifications to  ngos about nearby 
 places which needs to be cleaned and maintain well via email 
