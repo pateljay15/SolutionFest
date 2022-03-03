@@ -2,7 +2,15 @@
 Demo purpose the live link of application:
 -> https://ngo-helpers.netlify.app/
 
-For better experience of receiving real time mails plz use 
+Dummy Normal IDs:
+email: user@gmail.com
+pass: user@123
+
+Dummy NGO IDs:
+email: 
+pass: 
+
+###For better experience of receiving real time mails plz use 
 your real emails IDs to register in this application.
 
 Also we haven't deploy the code to the server which send realtime notifications to  ngos about nearby 
