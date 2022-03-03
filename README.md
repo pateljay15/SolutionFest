@@ -7,8 +7,8 @@ email: user@gmail.com
 pass: user@123
 
 Dummy NGO IDs:
-email: 
-pass: 
+email: ngo@gmail.com
+pass: ngo@1234
 
 ### For better experience of receiving real time mails plz use 
 ### your real emails IDs to register in this application.
