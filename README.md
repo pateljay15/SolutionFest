@@ -5,6 +5,11 @@ Demo purpose the live link of application:
 For better experience of receiving real time mails plz use 
 your real emails IDs to register in this application.
 
+Also we haven't push the code which send realtime notifications to  ngos about nearby 
+places which needs to be cleaned and maintain well via email 
+bcoz it will charge us as we are using AWS for sending emails. 
+But you can see the code for the same in : 
+backend/controllers/realTimeNotify.js
 
 Tools used:
 Backend: Nodejs , Express
